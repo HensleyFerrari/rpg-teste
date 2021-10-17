@@ -1,0 +1,29 @@
+.container {
+    margin: 10px;
+}
+
+.input{
+    margin-bottom: 20px;
+}
+
+.atributo{
+    margin-bottom: 10px;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.atributo input {
+    width: 50px;
+}
+
+input:focus{
+    outline: none;
+}
+
+.atributoNome{
+    width: 200px;
+}
